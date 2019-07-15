@@ -8,4 +8,5 @@
 
 ## Description
 
-This is an official `ubuntu` image with `erlang` and `elixir` installed.
+This is an official `ubuntu` image with `elixir` installed.
+It also includes asdf, Erlang and Node.js for usage with Phoenix.
